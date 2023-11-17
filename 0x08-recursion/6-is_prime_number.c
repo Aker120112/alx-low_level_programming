@@ -3,7 +3,7 @@
 int actual_prime(int n, int i);
 
 /**
- * Is_prime_number - says if an integer is a prime number or not
+ * is_prime_number - says if an integer is a prime number or not
  * @n: number to evaluate
  *
  * Return: 1 if n is a prime number, 0 if not
@@ -16,7 +16,7 @@ int is_prime_number(int n)
 }
 
 /**
- * Actual_prime - calculates if a number is prime recursively
+ * actual_prime - calculates if a number is prime recursively
  * @n: number to evaluate
  * @i: iterator
  *
